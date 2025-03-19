@@ -23,3 +23,13 @@ function actualizarLista () {
         nuevali.textContent = listaAmigos[i];
     }
 }
+
+function sortearAmigo () {
+    if (listaAmigos.length === 0) {
+        alert ("¡Debe agregar por lo menos un nombre!")
+        return;
+    }
+        let posicionAmigoSecreto = Math.floor(Math.random() * listaAmigos.length);
+        let resultadoFinal = listaAmigos[posicionAmigoSecreto];
+        document.getElementById("resultado").innerHTML = resultadoFinal;
+    }
