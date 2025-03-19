@@ -31,4 +31,4 @@ El objetivo principal es reforzar habilidades como:</p>
 
 <h2>📸 Demo del Proyecto</h2>
 <p>Mira como funciona la aplicación</p>
-![Video desafio](https://github.com/axelcisnero/alluraOracleOne/blob/main/challenge-amigo-secreto_esp-main/assets/Video-desafio.gif)
+![Demo del Proyecto](https://github.com/axelcisnero/alluraOracleOne/blob/main/challenge-amigo-secreto_esp-main/assets/video-desafio.gif)
