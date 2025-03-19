@@ -28,3 +28,7 @@ El objetivo principal es reforzar habilidades como:</p>
 <p>✅ Visualizar en pantalla la lista de amigos agregados</p>
 <p>✅ Realizar un sorteo aleatorio para elegir al amigo secreto</p>
 <p>✅ Mostrar el resultado del sorteo en la pantalla</p>
+
+<h2>📸 Demo del Proyecto</h2>
+<p>Mira como funciona la aplicación</p>
+![Video desafio](https://github.com/axelcisnero/alluraOracleOne/blob/main/challenge-amigo-secreto_esp-main/assets/Video-desafio.gif)
